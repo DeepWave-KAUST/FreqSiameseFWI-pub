@@ -40,5 +40,15 @@ conda activate FWIGAN
 configurations may be required for different combinations of workstation and GPU.
 
 ## Cite us 
-DW0060 - Omar M. Saad and Tariq Alkhalifah (2024) FreqSiameseFWI: A Novel Deep Learning Framework for Multi-Source Full Wave Inversion.
-
+```bibtex
+@article{saad2025f,
+  title={F-SiameseFWI: A Novel Deep Learning Framework for Multi-Source Full Wave Inversion},
+  author={Saad, Omar M and Alkhalifah, Tariq},
+  journal={Geophysics},
+  volume={90},
+  number={4},
+  pages={1--51},
+  year={2025},
+  doi ={https://doi.org/10.1190/geo2024-0785.1},
+  publisher={Society of Exploration Geophysicists}
+}
