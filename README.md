@@ -1,8 +1,6 @@
 ![LOGO](https://github.com/DeepWave-KAUST/FreqSiameseFWI-dev/blob/main/asset/FreqSiamese.jpg)
 
-Reproducible material for **FreqSiameseFWI: A Novel Deep Learning Framework for Multi-Source Full Wave Inversion - Omar M. Saad and Tariq Alkhalifah**
-
-[Click here]() to access the Project Report. Authentication to the _Restricted Area_ filespace is required.
+Reproducible material for **F-SiameseFWI: A Novel Deep Learning Framework for Multi-Source Full Wave Inversion - Omar M. Saad and Tariq Alkhalifah**
 
 # Project structure
 This repository is organized as follows:
